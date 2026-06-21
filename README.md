@@ -1,9 +1,9 @@
 ## yoo welcome to my github! 🔥
 
 feel free to reach out to me!
-- 💬 **Discord** [@trayhouse](https://discordapp.com/users/468257083720990731)
-- 🔗 **LinkedIn** [linkedin.com/in/srihas115](https://www.linkedin.com/in/srihas115/)
-- 📧 **Email** srihasgupta@gmail.com
+- 💬 **Discord** - [@trayhouse](https://discordapp.com/users/468257083720990731)
+- 🔗 **LinkedIn** - [linkedin.com/in/srihas115](https://www.linkedin.com/in/srihas115/)
+- 📧 **Email** - srihasgupta@gmail.com
 
 <!--
 **srihas115/srihas115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
