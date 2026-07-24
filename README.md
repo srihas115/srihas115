@@ -4,6 +4,7 @@ feel free to reach out to me!
 - 💬 **Discord** - [@trayhouse](https://discordapp.com/users/468257083720990731)
 - 🔗 **LinkedIn** - [linkedin.com/in/srihas115](https://www.linkedin.com/in/srihas115/)
 - 📧 **Email** - srihasgupta@gmail.com
+- ❤️ **Support Me** - [GitHub Sponsor](https://github.com/sponsors/srihas115) or [Buy Me a Coffee](https://buymeacoffee.com/srihas) 
 
 <!--
 **srihas115/srihas115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
