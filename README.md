@@ -6,9 +6,6 @@ feel free to reach out to me!
 - 📧 **Email** - srihasgupta@gmail.com
 - ❤️ **Support Me** - [GitHub Sponsor](https://github.com/sponsors/srihas115) or [Buy Me a Coffee](https://buymeacoffee.com/srihas) 
 
-### watch this snake eat my contributions ‼️
-![snake gif](https://github.com/srihas115/srihas115/blob/output/github-snake-dark.svg)
-
 
 <!--
 **srihas115/srihas115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
